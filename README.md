@@ -1,0 +1,2 @@
+# domaciGIT
+Prvi domaci
